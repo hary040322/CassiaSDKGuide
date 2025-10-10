@@ -140,6 +140,57 @@ From [ubuntu_XE1000.2.0.8](README.md#ubuntu_xe1000208targz)
 | python3-pip | 22.0.2+dfsg-1ubuntu0.5 | 23MB | dpkg -P python3-wheel python3-setuptools python3-pip<br>dpkg -P python3-pkg-resources ca-certificates<br>dpkg -P python3-distutils python3-lib2to3 |
 | rinetd | 0.62.1sam-1.1 | N/A | N/A |
 | unzip | 6.0-26ubuntu3.2 | N/A | N/A |
+## ubuntu_XE1000.2.2.2.tar.gz(1.22.4)
+#### Disk/Storage usage in Gateway
+| space stat. | size (MB) |
+|--|--|
+| tarball size | 275MB |
+| total file size | 828MB |
+| used space | 1106MB |
+| free space | 1092MB |
+#### OS and Tools
+| soft info | version |
+|--|--|
+| Ubuntu 22.04.5 LTS |
+| gcc | 11.4.0-1ubuntu1~22.04.2 |
+| g++ | 11.4.0-1ubuntu1~22.04.2 |
+| python3.10 | 3.10.12-1~22.04.11 |
+| python3.13 | 3.13.7-1+jammy1 |
+#### Python3 libs
+| pip3 | version |
+|--|--|
+| aiofiles | 24.1.0 |
+| aiohappyeyeballs | 2.6.1 |
+| aiohttp | 3.12.15 |
+| aiohttp-sse-client | 0.2.1 |
+| aiosignal | 1.4.0 |
+| aiosqlite | 0.17.0 |
+| attrs | 25.3.0 |
+| cffi | 2.0.0 |
+| cryptography | 46.0.1 |
+| dbus-python | 1.2.18 |
+| frozenlist | 1.7.0 |
+| gmqtt | 0.6.8 |
+| idna | 3.10 |
+| iniconfig | 2.1.0 |
+| multidict | 6.6.4 |
+| netifaces | 0.11.0 |
+| packaging | 25.0 |
+| pip | 25.2 |
+| pluggy | 1.6.0 |
+| propcache | 0.3.2 |
+| protobuf | 6.31.1 |
+| pycairo | 1.28.0 |
+| pycparser | 2.23 |
+| PyGObject |  3.54.2 |
+| pytest | 8.2.0 |
+| pytest-asyncio | 0.20.3 |
+| PyYAML | 6.0.2 |
+| setuptools | 59.6.0 |
+| typing_extensions | 4.15.0 |
+| urllib3 | 2.5.0 |
+| wirepas_mesh_messaging | 1.3.0rc3 |
+| yarl | 1.20.1 |
 ## Ubuntu Container APP
 ### use bluez
 [customize bluez](bluez_dbus.md)
