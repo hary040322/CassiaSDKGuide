@@ -182,6 +182,7 @@ From [ubuntu_XE1000.2.0.8](README.md#ubuntu_xe1000208targz)
 | protobuf | 6.31.1 |
 | pycairo | 1.28.0 |
 | pycparser | 2.23 |
+| pydbus | 0.6.0 |
 | PyGObject |  3.54.2 |
 | pytest | 8.2.0 |
 | pytest-asyncio | 0.20.3 |
