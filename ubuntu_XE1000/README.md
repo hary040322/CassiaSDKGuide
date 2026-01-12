@@ -44,6 +44,33 @@ Some ports will, by default, forward traffic to the interior of the container. R
 | six | 1.14.0 |
 | ubuntu-advantage-tools | 20.3 |
 | wheel | 0.34.2 |
+## ubuntu_XE1000.2.0.7.tar.gz
+From [ubuntu_XE1000.2.0.1](README.md#ubuntu_xe1000201targz)
+#### Disk/Storage usage in Gateway
+| space stat. | size (MB) |
+|--|--|
+| tarball size | 193MB |
+| total file size | 646MB |
+| used space | 849MB |
+| free space | 1349MB |
+#### OS and Tools
+| soft info | version |
+|--|--|
+| Ubuntu| 20.04.6 LTS |
+| batctl | 2019.5-1 |
+| bluetooth | 5.53-0ubuntu3.8 |
+| bluez-tools | 2.0~20170911.0.7cb788c-2build1 |
+| i2c-tools | 4.1-2build2 |
+| iptables | 1.8.4-3ubuntu2.1 |
+| jq | 1.6-1ubuntu0.20.04.1 |
+| libbluetooth3 | 5.53-0ubuntu3.8 |
+| libsnappy1v5 | 1.1.8-1build1 |
+| libubootenv-tool | 0.2-1 |
+| rinetd | 0.62.1sam-1.1 |
+| s6 | 2.9.0.1-2 |
+| screen | 4.8.0-1ubuntu0.1 |
+| tinc | 1.0.36-1 |
+| unzip | 6.0-25ubuntu1.2 |
 ## ubuntu_XE1000.2.0.8.tar.gz
 #### Disk/Storage usage in Gateway
 | space stat. | size (MB) |
