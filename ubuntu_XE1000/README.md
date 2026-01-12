@@ -49,10 +49,10 @@ From [ubuntu_XE1000.2.0.1](README.md#ubuntu_xe1000201targz)
 #### Disk/Storage usage in Gateway
 | space stat. | size (MB) |
 |--|--|
-| tarball size | 193MB |
-| total file size | 646MB |
-| used space | 849MB |
-| free space | 1349MB |
+| tarball size | 229MB |
+| total file size | 739MB |
+| used space | 971MB |
+| free space | 1272MB |
 #### OS and Tools
 | soft info | version |
 |--|--|
