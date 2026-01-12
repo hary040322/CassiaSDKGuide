@@ -57,11 +57,7 @@ From [ubuntu_XE1000.2.0.1](README.md#ubuntu_xe1000201targz)
 | soft info | version |
 |--|--|
 | Ubuntu| 20.04.6 LTS |
-| batctl | 2019.5-1 |
-| bluetooth | 5.53-0ubuntu3.8 |
-| bluez-tools | 2.0~20170911.0.7cb788c-2build1 |
-| i2c-tools | 4.1-2build2 |
-| iptables | 1.8.4-3ubuntu2.1 |
+| bluez | 5.53-0ubuntu3.6 |
 | jq | 1.6-1ubuntu0.20.04.1 |
 | libbluetooth3 | 5.53-0ubuntu3.8 |
 | libsnappy1v5 | 1.1.8-1build1 |
