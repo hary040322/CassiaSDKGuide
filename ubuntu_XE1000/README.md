@@ -58,15 +58,8 @@ From [ubuntu_XE1000.2.0.1](README.md#ubuntu_xe1000201targz)
 |--|--|
 | Ubuntu| 20.04.6 LTS |
 | bluez | 5.53-0ubuntu3.6 |
-| jq | 1.6-1ubuntu0.20.04.1 |
-| libbluetooth3 | 5.53-0ubuntu3.8 |
-| libsnappy1v5 | 1.1.8-1build1 |
-| libubootenv-tool | 0.2-1 |
-| rinetd | 0.62.1sam-1.1 |
-| s6 | 2.9.0.1-2 |
-| screen | 4.8.0-1ubuntu0.1 |
-| tinc | 1.0.36-1 |
-| unzip | 6.0-25ubuntu1.2 |
+| aspnetcore-runtime | 6.0.21 |
+
 ## ubuntu_XE1000.2.0.8.tar.gz
 #### Disk/Storage usage in Gateway
 | space stat. | size (MB) |
