@@ -235,11 +235,8 @@ From [ubuntu_XE1000.2.0.8](README.md#ubuntu_xe1000208targz)
 #### OS and Tools
 | soft info | version |
 |--|--|
-| Ubuntu | 22.04.4 LTS |
-| dotnet | 8.0.4cassia1 |
-| nodejs | N/A |
-| python2 | N/A |
-| python3 | 3.10.12-1~22.04.3 |
+| Ubuntu | Ubuntu 24.04.4 LTS |
+| python3 | 3.12.3-0ubuntu2.1 |
 ## Ubuntu Container APP
 ### use bluez
 [customize bluez](bluez_dbus.md)
