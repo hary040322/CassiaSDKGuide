@@ -224,7 +224,7 @@ From [ubuntu_XE1000.2.0.8](README.md#ubuntu_xe1000208targz)
 | nodejs | N/A |
 | python2 | N/A |
 | python3 | 3.10.6-1~22.04.1 |
-## ubuntu_XE1000.2.4.0.tar.gz (preview)
+## ubuntu_XE1000.2.4.0.tar.gz
 #### Disk/Storage usage in Gateway
 | space stat. | size (MB) |
 |--|--|
